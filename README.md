@@ -12,3 +12,5 @@ sudo bash Nessus_Multi-1.sh
 ```
 
 # Workflow
+Add the Full path in ""Type Nessus file path""
+!
