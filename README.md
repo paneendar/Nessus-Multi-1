@@ -4,7 +4,7 @@ Single bash embedded script will help to merge all .nessus files into 1 nessus f
 
 # Install 
 To install,
-Some basic Git commands are:
+Some basic commands are:
 ```
 git clone https://github.com/paneendar/Nessus-Multi-1.git
 cd Nessus-Multi-1
