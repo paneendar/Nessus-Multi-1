@@ -16,7 +16,7 @@ echo -n "Type Nessus file path : "
 read a
 echo -n "Type output filename (Example: <filename>.nessus) : "
 read b
-python3 nessus.py  -l $a -o /root/Desktop/$b
+python3 nessus.py  -l $a -o /home/$b
 echo -n "your output is saved here  " 
-echo -n "/root/Desktop/$b"
+echo -n "/home/$b"
 rm nessus.py -rf 1> /dev/null 2> /dev/null
