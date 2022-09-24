@@ -14,9 +14,9 @@ chmod +x nessus.py
 echo "[i] Installing python code in encoded form and installing "
 echo -n "Type Nessus file path : "
 read a
-echo -n "Type output filename (Example: <filename>.nessus) : "
+echo -n "Type output filename (Example: filename) : "
 read b
-python3 nessus.py  -l $a -o /home/$b
+python3 nessus.py  -l $a -o /home/$b.nessus
 echo -n "your output is saved here  " 
 echo -n "/home/$b"
 rm nessus.py -rf 1> /dev/null 2> /dev/null
