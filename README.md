@@ -13,6 +13,10 @@ sudo bash Nessus_Multi-1.sh
 
 # Workflow
 ```
+Don't ZIP all the nessus files and try. Unzip and use the whole directory/folder. Example {/home/kali/IVA} 
+```
+
+```
 Add the Full path in ""Type Nessus file path""
 ```
 
