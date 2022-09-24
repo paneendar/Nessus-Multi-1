@@ -17,6 +17,6 @@ read a
 echo -n "Type output filename (Example: filename) : "
 read b
 python3 nessus.py  -l $a -o /home/$b.nessus
-echo -n "your output is saved here  " 
-echo -n "/home/$b"
+echo -n "Your output is saved here  " 
+echo -n "/home/$b.nessus"
 rm nessus.py -rf 1> /dev/null 2> /dev/null
