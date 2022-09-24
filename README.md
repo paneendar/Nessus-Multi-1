@@ -13,7 +13,7 @@ sudo bash Nessus_Multi-1.sh
 
 # Workflow
 ```
-Don't ZIP all the nessus files and try. Unzip and use the whole directory/folder. Example {/home/kali/IVA} 
+Don't ZIP all the nessus files and try. Use the whole directory/folder. Example {/home/kali/IVA} 
 ```
 
 ```
